@@ -12,7 +12,8 @@ body {
 }
 
 .App {
-  background-image: url("./BackgroundStegoChat.jpeg");
+  /* background-image: url("./BackgroundStegoChat.jpeg"); */
+  background-color: ffff;
   background-size: cover;
   background-position: center;
   padding: 30px;
